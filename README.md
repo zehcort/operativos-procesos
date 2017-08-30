@@ -1,3 +1,3 @@
 # operativos-procesos
 ![][1]  
-[1]: http://www.imagen.com.mx/assets/img/imagen_share.png
+[1]: images/imagen_share.png
